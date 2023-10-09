@@ -8,7 +8,7 @@ Simplify SAP Cloud Integration CI/CD with a native approach—no external tools 
 
 
 
-If you've found my work helpful, please consider buying me a coffee to show your support!
+If you've found my work helpful in your project, please consider buying me a coffee to show your support!
 
 <a href="https://www.buymeacoffee.com/nesun3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
