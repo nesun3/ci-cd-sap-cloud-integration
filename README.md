@@ -13,7 +13,8 @@ This project is open to feature requests/suggestions, bug reports, etc. via [Git
 
 See our [contribution guidelines](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/.github/CONTRIBUTING.md) for information about how to contribute, the project structure, as well as additional contribution information.
 
-
+### License
+See the [LICENSE](LICENSE) file for details
 
 *If you've found my work helpful in your project, please consider buying me a coffee to show your support!*
 
