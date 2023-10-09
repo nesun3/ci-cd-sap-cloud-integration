@@ -11,7 +11,7 @@ Simplify SAP Cloud Integration CI/CD with a native approach—no external tools 
 
 This project is open to feature requests/suggestions, bug reports, etc. via [GitHub issues](https://github.com/nesun3/ci-cd-sap-cloud-integration/issues) and [pull requests](https://github.com/nesun3/ci-cd-sap-cloud-integration/pulls). Contribution and feedback are encouraged and always welcome.
 
-See our [contribution guidelines](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/.github/CONTRIBUTING.md) for information about how to contribute, the project structure, as well as additional contribution information.
+See [Contribution guidelines for this project](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/.github/CONTRIBUTING.md) if you want to take part in this project. As I am a beginner myself, beginners are welcome.
 
 ### License
 See the [LICENSE](LICENSE) file for details
