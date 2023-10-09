@@ -2,7 +2,8 @@
 Simplify SAP Cloud Integration CI/CD with a native approach—no external tools or Git required.
   
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+![GitHub](https://img.shields.io/github/license/nesun3/ci-cd-sap-cloud-integration)
+![GitHub](https://img.shields.io/badge/integration-SAP-blue)
 
 
 
