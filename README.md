@@ -1,11 +1,20 @@
+<p align="center">
 <img src="https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/docs/images/cicd.png" alt="Logo" width="200" height="200"/>
+</p>
 
-# Simplifying CI/CD for SAP Cloud Integration Projects
+<h1 align="center">Simplifying CI/CD for SAP Cloud Integration Projects</h1>
+
+<p align="center">
 Simplify SAP Cloud Integration CI/CD with a native approach—no external tools or Git required.
+</p>
+
+<div align="center">
   
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![GitHub](https://img.shields.io/github/license/nesun3/ci-cd-sap-cloud-integration)
 ![GitHub](https://img.shields.io/badge/sap_integration-Custom-blue)
+
+</div>
 
 ## About this project
 CI/CD is a hot topic in the world of software development. It stands for Continuous Integration and Continuous Deployment (or Continuous Delivery), and it plays a pivotal role in modern software development processes. CI/CD is a set of practices, tools, and principles aimed at automating and streamlining the software development lifecycle.
