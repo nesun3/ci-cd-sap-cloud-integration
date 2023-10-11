@@ -1,3 +1,5 @@
+<img src="https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/docs/images/cicd.png" alt="Logo" width="200" height="200"/>
+
 # Simplifying CI/CD for SAP Cloud Integration Projects
 Simplify SAP Cloud Integration CI/CD with a native approach—no external tools or Git required.
   
