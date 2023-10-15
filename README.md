@@ -29,6 +29,7 @@ Designed with ease-of-use in mind, making it simple and straightforward to begin
 
 A write-up about this project can be found here:
 
+![General architecture](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/docs/images/General%20architecture.png)
 ## Requirements
 You will need a SAP Cloud Integration tenant to consume, test and enhance this integrationartifacts.
 
