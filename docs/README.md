@@ -1,5 +1,5 @@
 # Prerequisites
-Ensure that you have these [prerequisites](https://github.com/nesun3/ci-cd-sap-cloud-integration/tree/main/.config#prerequisite) in place before proceeding with the interface configuration.
+Ensure that you have these [prerequisites](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/.config/README.md) in place before proceeding with the interface configuration.
 
 # Configuration
 >If the prerequisites are fulfilled, you’ll be ready to configure the external parameters of the integration flow!
