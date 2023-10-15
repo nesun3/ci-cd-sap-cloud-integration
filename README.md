@@ -40,6 +40,15 @@ This repository contains
 2. [Source Code]() - The unzip or raw file contents of each integration flows.
 3. [Test Integration Packages](https://github.com/nesun3/ci-cd-sap-cloud-integration/tree/main/test#test-packages) - You can download the test packages from the repository, which you can readily use for testing. You can explore various combinations within each of the test packages and integration flows and try out the overall solution in your trial or non-production tenant. While you can also use your own test packages and integration flows, these are provided for quick reference to get you started.
 
+## Documentation
+To learn how to use the integration artifacts, please refer to the [user documentation]().
+
+## Features
+  - Sync all or specific integration contents from the SAP Cloud Integration tenant to GitHub Repository to store and see the full history of changes.
+  - Check the SAP Cloud Integration tenant for a new version of your integration contents (like packages and iflows) and if a new version exists, sync the changed integration contents to GitHub Repository and keep track of the latest changes.
+  - Transport/Migrate all or specific integration contents from the Source SAP Cloud Integration tenant to the Target SAP Cloud Integration tenant without using any external tool.
+  - Download the latest version of an integration flow artifact or resources of an integration flow artifact from your GitHub Repository and either update or create the artifacts on the SAP Cloud Integration tenant.
+
 ## Support, Feedback, Contributing
 
 This project is open to feature requests/suggestions, bug reports, etc. via [GitHub issues](https://github.com/nesun3/ci-cd-sap-cloud-integration/issues) and [pull requests](https://github.com/nesun3/ci-cd-sap-cloud-integration/pulls). Contribution and feedback are encouraged and always welcome.
