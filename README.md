@@ -34,9 +34,9 @@ You will need a SAP Cloud Integration tenant to consume, test and enhance this i
 
 ## Download and Installation
 This repository contains
-1. [Integration Package] - This integration package contains integration flows to illustrate the design to implement the Continuous Integration (CI) & Continuous Delivery/Deployment (CD) pipelines for SAP Cloud Integration Projects. This package is built in such a way, so that you only need to replace a few configuration parameters that are specific to your environment and organization/project and leave the rest as it is.
+1. [Integration Package]() - This integration package contains integration flows to illustrate the design to implement the Continuous Integration (CI) & Continuous Delivery/Deployment (CD) pipelines for SAP Cloud Integration Projects. This package is built in such a way, so that you only need to replace a few configuration parameters that are specific to your environment and organization/project and leave the rest as it is.
 > Further, you can use this package as a starting template to create your own CI/CD pipelines tailored to your organization/project needs and customize further.
-2. [Test Integration Packages]() - 
+2. [Test Integration Packages](https://github.com/nesun3/ci-cd-sap-cloud-integration/tree/main/test#test-packages) - You can download the test packages from the repository, which you can readily use for testing. You can explore various combinations within each of the test packages and integration flows and try out the overall solution in your trial or non-production tenant. While you can also use your own test packages and integration flows, these are provided for quick reference to get you started.
 
 ## Support, Feedback, Contributing
 
