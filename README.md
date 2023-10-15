@@ -29,6 +29,14 @@ Designed with ease-of-use in mind, making it simple and straightforward to begin
 
 A write-up about this project can be found here:
 
+## Requirements
+You will need a SAP Cloud Integration tenant to consume, test and enhance this integrationartifacts.
+
+## Download and Installation
+This repository contains
+1. [Integration Package] - This integration package contains integration flows to illustrate the design to implement the Continuous Integration (CI) & Continuous Delivery/Deployment (CD) pipelines for SAP Cloud Integration Projects. This package is built in such a way, so that you only need to replace a few configuration parameters that are specific to your environment and organization/project and leave the rest as it is.
+> Further, you can use this package as a starting template to create your own CI/CD pipelines tailored to your organization/project needs and customize further.
+2. [Test Integration Packages]() - 
 
 ## Support, Feedback, Contributing
 
