@@ -1,4 +1,4 @@
->Follow External Parameter Configurations for each iflow in their respective folder.
+>Follow External Parameter Configurations for each iflow in their respective folders above.
 
 ## Prerequisite
 
