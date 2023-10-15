@@ -41,7 +41,7 @@ This repository contains
 3. [Test Integration Packages](https://github.com/nesun3/ci-cd-sap-cloud-integration/tree/main/test#test-packages) - You can download the test packages from the repository, which you can readily use for testing. You can explore various combinations within each of the test packages and integration flows and try out the overall solution in your trial or non-production tenant. While you can also use your own test packages and integration flows, these are provided for quick reference to get you started.
 
 ## Documentation
-To learn how to use the integration artifacts, please refer to the [user documentation]().
+To learn how to use the integration artifacts, please refer to the [user documentation](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/docs/README.md).
 
 ## Features
   - Sync all or specific integration contents from the SAP Cloud Integration tenant to GitHub Repository to store and see the full history of changes.
