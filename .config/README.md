@@ -3,7 +3,7 @@
 ## Prerequisite
 
 
-To use this integration artifacts, you will need the following:
+*Before configuring External Parameters for an integration flow, you must ensure the following steps are completed:*
 
 1. Download the Integration Package ZIP archive from the GitHub Repo and import Integration Package into your tenant.
 2. Create an OAuth client (Client Credentials grant type) on the tenant:
@@ -24,4 +24,5 @@ To use this integration artifacts, you will need the following:
 5. **[Optional]** Microsoft Teams Channel Webhook configuration:
     - *Configure only in case you want to send Notification to your MS Teams Channel.*
     - Create Incoming Webhooks for your MS Teams Channel. Copy and store the webhook address.
+6. **[Optional]** You can download the test packages from the GitHub repository [Repo name], which you can readily use for testing. You can explore various combinations within each of the test packages and integration flows and try out the overall solution in your trial or non-production tenant. While you can also use your own test packages and integration flows, these are provided for quick reference to get you started.   
 
