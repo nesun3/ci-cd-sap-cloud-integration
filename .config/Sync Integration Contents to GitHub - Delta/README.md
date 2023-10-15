@@ -2,7 +2,7 @@
 >If the [prerequisites](https://github.com/nesun3/ci-cd-sap-cloud-integration/tree/main/.config#prerequisite) are fulfilled, you’ll be ready to configure the external parameters of the integration flow!
 
 **Some Key Points:**
-- For the first Delta Run, update the Last Successful Run DateTime (LSRD) first. Once LSRD is set, it will look for any changes i.e. new Version from the Last Successful Run DateTime.
+- For the first Delta Run, you should update the Last Successful Run DateTime (LSRD) first. Once LSRD is set, it will then look for any changes, i.e. a new version, from the Last Successful Run DateTime.
 - The API Response of the public ODATA APIs of the SAP Cloud Integration for `ValueMappingDesigntimeArtifacts` does not support `ModifiedDate` field. Therefore, delta changes for Value Mapping was not be possible to develop.
 
 | Parameter Name        | Descriptions                                                                                                                                                                                                                                                                                                                                                                       | Example                                                          | Required |
