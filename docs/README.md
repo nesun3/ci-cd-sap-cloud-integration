@@ -14,4 +14,11 @@ Follow the configuration guide for each interface in the table below, which cont
                     
 
 # Step-by-Step Walkthrough
+| Integration Flow Name                       | Walkthrough/Demo Link |
+|---------------------------------------------|-----------------------|
+| Sync Integration Contents to GitHub         | [Link]()              |
+| Sync Integration Contents to GitHub - Delta | [Link]()              |
+| Transport Integration Contents              | [Link]()              |
+| Upload Integration Contents from GitHub     | [Link]()              |
+
 
