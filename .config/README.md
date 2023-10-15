@@ -12,7 +12,8 @@
         - Grant-types: 'client_credentials'
         - Roles: `AuthGroup_IntegrationDeveloper`, `AuthGroup_Administrator`, `AuthGroup_BusinessExpert`
     - Create a Service Key and copy the entire JSON text to your clipboard to use in the Step 4 for Create `OAuth2 Client Credentials`.
-    - *[Optional]* Repeat the above steps for the Target tenant (required only for Transport Integration Contents iflow).
+    - *[Optional]* Repeat the above steps for the Target tenant (required only for Transport Integration Contents iflow).      
+>  For the Neo Environment, please refer to steps 1 and 2 in the [Neo documentation](https://help.sap.com/docs/cloud-integration/sap-cloud-integration/setting-up-oauth-inbound-authentication-with-client-credentials-grant-for-api-clients). Assign the roles mentioned above to the user 'oauth_client_<client ID>'. Copy the Token Endpoint (found in the branding tab), Client ID, and Client Secret to your clipboard for use in Step 4 when creating the `OAuth2 Client Credentials`. 
 3. GitHub Repo Creation:
     - If you already have a GitHub account you can skip this step , otherwise Signup for the new Account.
     - Once account is created, login to GitHub and Create `Personal Access Token` (classic). Copy the new token to your clipboard to use in the Step 4 for Create `Secure Parameter`.
