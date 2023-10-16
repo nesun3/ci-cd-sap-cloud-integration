@@ -35,9 +35,9 @@ You will need a SAP Cloud Integration tenant to consume, test and enhance this i
 
 ## Download and Installation
 This repository contains
-1. [Integration Package](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/9a65833a0e634b98aa8f68c9726e65d2088a9989/build/Continuous%20Integration%20and%20Delivery%20for%20SAP%20Cloud%20Integration.zip) - The zip file of the integration package that will help you to create your own Continuous Integration (CI) & Continuous Delivery (CD) pipelines for your SAP Cloud Integration Projects. This package is built in such a way, so that you only need to replace a few configuration parameters that are specific to your environment and organization/project and leave the rest as it is.
+1. [Integration Package](https://github.com/nesun3/ci-cd-sap-cloud-integration/tree/main/build) - The zip file of the integration package that will help you to create your own Continuous Integration (CI) & Continuous Delivery (CD) pipelines for your SAP Cloud Integration Projects. This package is built in such a way, so that you only need to replace a few configuration parameters that are specific to your environment and organization/project and leave the rest as it is.
 > Further, you can use this package as a starting template to create your own CI/CD pipelines tailored to your organization/project needs and customize further.
-2. [Source Code](https://github.com/nesun3/ci-cd-sap-cloud-integration/tree/9a65833a0e634b98aa8f68c9726e65d2088a9989/src) - The unzip or raw file contents of each integration flows.
+2. [Source Code](https://github.com/nesun3/ci-cd-sap-cloud-integration/tree/main/src) - The unzip or raw file contents of each integration flows.
 3. [Test Integration Packages](https://github.com/nesun3/ci-cd-sap-cloud-integration/tree/main/test#test-packages) - You can download the test packages from the repository, which you can readily use for testing. You can explore various combinations within each of the test packages and integration flows and try out the overall solution in your trial or non-production tenant. While you can also use your own test packages and integration flows, these are provided for quick reference to get you started.
 
 ## Documentation
