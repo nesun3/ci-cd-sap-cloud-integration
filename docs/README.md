@@ -1,3 +1,20 @@
+# Continuous Integration and Delivery for SAP Cloud Integration
+This [Integration Package](https://github.com/nesun3/ci-cd-sap-cloud-integration/tree/main/build#%EF%B8%8F-download-the-zip-file-of-the-integration-package-and-import-it-to-your-tenant) contains integration flows to illustrate the design to implement the Continuous Integration (CI) & Continuous Delivery/Deployment (CD) pipelines for SAP Cloud Integration Projects, enabling you to create your own CI/CD pipelines, without even relying on native Git, a prerequisite for most CI/CD tools or additional knowledge.
+
+The Integration Package contains 4 integration flows which is built in such a way, so that you only need to replace a few configuration parameters that are specific to your environment and organization/project and leave the rest as it is. Simple and easy to get started. 
+
+*Further, you can use this package as a starting template to create your own CI/CD pipelines tailored to your organization/project needs and customize further.*
+
+>This package uses the public ODATA APIs of the SAP Integration Suite and public GitHub REST API under the hood to create CI/CD pipelines.
+
+| Integration Flow Name                       | Descriptions                                                                                                                                                                                                                                |
+|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sync Integration Contents to GitHub         | Sync all or specific integration contents (only packages, iflows, value mappings) from the SAP Cloud Integration tenant to GitHub Repository to store and see the full history of changes                                                   |
+| Sync Integration Contents to GitHub - Delta | Check the SAP Cloud Integration tenant for a new version of your integration contents (only packages, iflows) and if a new version exists, sync the changed integration contents to GitHub Repository and keep track of the latest changes. |
+| Transport Integration Contents              | Export the latest version of all or specific integration artifacts (either packages or iflows or value mappings) from the Source tenant and either import or update the artifact on the Target tenant without using any external tool.      |
+| Upload Integration Contents from GitHub     | Download the latest version of either an integration flow artifact or resources of an integration flow artifact from GitHub repository and either update or create the artifacts on the tenant.                                             |
+
+
 # Prerequisites
 Ensure that you have these [prerequisites](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/.config/README.md) in place before proceeding with the interface configuration.
 
