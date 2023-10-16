@@ -42,6 +42,8 @@ This repository contains
 ## Documentation
 To learn how to use the integration artifacts, please refer to the [user documentation](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/docs/README.md).
 
+Refer to the GitHub repository [sap-cloud-integration-artifacts](https://github.com/nesun3/sap-cloud-integration-artifacts.git) to understand the folder structure and how files will be stored in GitHub. This repository on GitHub provides examples of different use cases and supported scenarios.
+
 ## Features
   - Sync all or specific integration contents from the SAP Cloud Integration tenant to GitHub Repository to store and see the full history of changes.
   - Check the SAP Cloud Integration tenant for a new version of your integration contents (like packages and iflows) and if a new version exists, sync the changed integration contents to GitHub Repository and keep track of the latest changes.
