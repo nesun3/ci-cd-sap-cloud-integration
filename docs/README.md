@@ -9,8 +9,8 @@ Follow the configuration guide for each interface in the table below, which cont
 |---------------------------------------------|-------------------|
 | Sync Integration Contents to GitHub         | [Link](https://github.com/nesun3/ci-cd-sap-cloud-integration/tree/main/.config/Sync%20Integration%20Contents%20to%20GitHub#external-parmeter-configuration-on-sap-cloud-integration)          |
 | Sync Integration Contents to GitHub - Delta | [Link](https://github.com/nesun3/ci-cd-sap-cloud-integration/tree/main/.config/Sync%20Integration%20Contents%20to%20GitHub%20-%20Delta#external-parmeter-configuration-on-sap-cloud-integration)          |
-| Transport Integration Contents              | [Link]()          |
-| Upload Integration Contents from GitHub     | [Link]()          |
+| Transport Integration Contents              | [Link](https://github.com/nesun3/ci-cd-sap-cloud-integration/tree/main/.config/Transport%20Integration%20Contents#external-parmeter-configuration-on-sap-cloud-integration)          |
+| Upload Integration Contents from GitHub     | [Link](https://github.com/nesun3/ci-cd-sap-cloud-integration/tree/main/.config/Upload%20Integration%20Contents%20from%20GitHub#external-parmeter-configuration-on-sap-cloud-integration)          |
                     
 
 # Step-by-Step Walkthrough
