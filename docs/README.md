@@ -16,9 +16,9 @@ Follow the configuration guide for each interface in the table below, which cont
 # Step-by-Step Walkthrough
 | Integration Flow Name                       | Walkthrough/Demo Link |
 |---------------------------------------------|-----------------------|
-| Sync Integration Contents to GitHub         | [Link]()              |
-| Sync Integration Contents to GitHub - Delta | [Link]()              |
-| Transport Integration Contents              | [Link]()              |
-| Upload Integration Contents from GitHub     | [Link]()              |
+| Sync Integration Contents to GitHub         | [Link](https://youtu.be/IKupHcvvHwI)              |
+| Sync Integration Contents to GitHub - Delta | [Link](https://youtu.be/X_Vz7-pr7X4)              |
+| Transport Integration Contents              | [Link](https://youtu.be/SUVq4Y_CZuk)              |
+| Upload Integration Contents from GitHub     | [Link](https://youtu.be/427mmiJBXTk)              |
 
 
