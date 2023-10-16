@@ -1,0 +1,12 @@
+#
+#Mon Oct 16 05:34:32 UTC 2023
+HostAddress=Hostname of Process Integration Runtime Service | API Plan \u2013 you find this value in BTP Cockpit of your Cloud Integration subscription
+IntegrationFlowName=Integration flow Name to be uploaded from GitHub Repo to the SAP Cloud Integration tenant
+GithHubAccessToken=Set the name of the credential created in Security Material to store Github Personal Access Token
+GitHubPath=GitHub Path to the location of the file - relative to root of the repository. Note\: If SelectArtifactType \= &apos;resources&apos; only, then you can add multiple paths (comma-separated values)
+IntegrationPackageId=Integration Package Id of the Integration flow to be uploaded from GitHub Repo to the SAP Cloud Integration tenant
+GitHubOwnerName=The account owner of Github Repository
+IntegrationFlowId=Integration flow Id to be uploaded from GitHub Repo to the SAP Cloud Integration tenant
+GitHubRepositoryName=The name of the Github Repository without the .git extension
+OAuthCredential=Set the name of the Credential created in Security Material for SAP CI ODATA V2 API authentication
+SelectArtifactType=Select Integration Content Type from GitHub Repo to be uploaded to the tenant. Allowed values\: iflow or resources

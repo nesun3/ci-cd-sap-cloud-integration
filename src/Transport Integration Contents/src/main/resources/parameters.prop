@@ -1,0 +1,18 @@
+#
+#Mon Oct 16 05:34:24 UTC 2023
+DeployAfterImport=Do you want to deploy after importing to the Target Subaccount? Allowed values\: yes or no
+SendTeamsNotification=Do you want to send Notification to your Microsoft Teams channel? Allowed Value\: yes or no
+IntegrationPackageId\u2019s=Integration Package IDs to be included in the extract (comma-separated values)
+Skip=Skip the first n Packages from Sync (Leave Blank or give an Integer Value)
+SourceOAuthCredential=Set the name of the Source Credential created in Security Material for SAP CI ODATA V2 API authentication
+TargetHostAddress=Target Hostname of Process Integration Runtime Service | API Plan \u2013 you find this value in BTP Cockpit of your Cloud Integration subscription
+ValueMappingId's=Value Mapping IDs to be included in the extract (comma-separated values)
+IntegrationFlowId\u2019s=Integration flow IDs to be included in the extract (comma-separated values)
+Scheduler=<row><cell>dateType</cell><cell></cell></row><row><cell>timeType</cell><cell></cell></row><row><cell>dayValue</cell><cell></cell></row><row><cell>monthValue</cell><cell></cell></row><row><cell>yearValue</cell><cell></cell></row><row><cell>onWeekly</cell><cell></cell></row><row><cell>onMonthly</cell><cell></cell></row><row><cell>OnEveryMinute</cell><cell></cell></row><row><cell>fromInterval</cell><cell></cell></row><row><cell>toInterval</cell><cell></cell></row><row><cell>timeZone</cell><cell>( UTC 0\:00 ) Greenwich Mean Time(Etc/GMT)</cell></row><row><cell>secondValue</cell><cell>0</cell></row><row><cell>minutesValue</cell><cell></cell></row><row><cell>hourValue</cell><cell></cell></row><row><cell>triggerType</cell><cell>simple</cell></row><row><cell>noOfSchedules</cell><cell>1</cell></row><row><cell>schedule1</cell><cell>fireNow\=true</cell></row>
+Top=Sync only the first n Packages (Leave Blank or give an Integer Value)
+SelectArtifactType=Select Integration Content Type to be transported. Allowed values\: pkg or ifl or vmp.
+TargetOAuthCredential=Set the name of the Target Credential created in Security Material for SAP CI ODATA V2 API authentication
+SourceHostAddress=Source Hostname of Process Integration Runtime Service | API Plan \u2013 you find this value in BTP Cockpit of your Cloud Integration subscription
+TargetSystemName=Name of the Target Subaccount
+SourceSystemName=Name of the Source Subaccount
+WebhookAddress=Incoming Webhook Address of your Microsoft Teams channel

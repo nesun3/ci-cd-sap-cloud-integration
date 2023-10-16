@@ -1,0 +1,5 @@
+#Store metainfo properties
+#Mon Oct 16 05:34:24 UTC 2023
+description=Export the latest version of all or specific integration artifacts (either packages or iflows or value mappings) from the Source SAP Cloud Integration tenant and either import or update the artifact on the Target SAP Cloud Integration tenant.
+source=Source SAP Cloud Integration tenant
+target=Target SAP Cloud Integration tenant
