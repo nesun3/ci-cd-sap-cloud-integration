@@ -68,19 +68,19 @@ body:
         [The above attachments are necessary for validation and troubleshooting.]
     validations:
       required: true
-   - type: checkboxes
+  - type: checkboxes
     id: unchanged
     attributes:
       label: Unchanged
       description: By submitting this issue, you agree that you have unchanged the integration flow except external paramters. Support for customized iflow will not be supported. 
       options:
-        - label: I agree that the above issue repororted for the integration flow is kept unchanged.
-          required: true
+         - label: I agree that the above issue repororted for the integration flow is kept unchanged.
+           required: true
   - type: checkboxes
     id: terms
     attributes:
       label: Code of Conduct
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+         - label: I agree to follow this project's Code of Conduct
+           required: true
