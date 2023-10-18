@@ -38,10 +38,11 @@ body:
       label: Steps to reproduce the behavior
       description: How do you trigger this bug? Please walk us through it step by step.
       value: |
-      1.  Go to '...'
-      2.  Click on '....'
-      3.  Scroll down to '....'
-      4.  See error ...
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error ...
+        ... [ Paste the error details and screenshots ]
     validations:
       required: true
   - type: dropdown
