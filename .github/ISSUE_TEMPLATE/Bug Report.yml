@@ -15,7 +15,7 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: false
-  - type: textarea
+  - type: input
     id: decribe-the-bug
     attributes:
       label: Describe the bug
@@ -29,7 +29,6 @@ body:
     attributes:
       label: What happened?
       description: A clear and concise description of what you expected to happen.
-      placeholder: Tell us what you see!
       value: "A bug happened!"
     validations:
       required: true
@@ -37,9 +36,12 @@ body:
     id: to-reproduce
     attributes:
       label: Steps to reproduce the behavior
-      description: Go to '...' \n Click on '....' \n Scroll down to '....' \n See error
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      description: How do you trigger this bug? Please walk us through it step by step.
+      value: |
+      1.  Go to '...'
+      2.  Click on '....'
+      3.  Scroll down to '....'
+      4.  See error ...
     validations:
       required: true
   - type: dropdown
