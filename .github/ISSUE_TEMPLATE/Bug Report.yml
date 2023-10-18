@@ -28,7 +28,7 @@ body:
     id: what-happened
     attributes:
       label: What happened?
-      description: A clear and concise description of what you expected to happen.
+      description: A clear and concise description of what happened and what you expected to happen.
       value: "A bug happened!"
     validations:
       required: true
@@ -42,36 +42,40 @@ body:
         2. Click on '....'
         3. Scroll down to '....'
         4. See error ...
-        ... [ Paste the error details and screenshots ]
+        [If applicable, add screenshots to help explain your problem.]
     validations:
       required: true
   - type: dropdown
-    id: version
+    id: integration-flow-name
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: Integration Flow Name?
+      multiple: false
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
-      default: 0
-    validations:
-      required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - Sync artifacts
+        - Sync artifacts - Delta
+        - Transport/Migrate artifacts
+        - Upload artifacts to tenant
   - type: textarea
     id: logs
     attributes:
       label: Relevant log output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+      value: |
+        1. Attach the MPL 'HTTP LOGS'. 
+        2. Attach the MPL 'SUMMARY REPORT'.
+        3. If the above MPL is not generated, go trace and attach trace logs (i.e. Header, Property only) of the step where the error has occured.
+        4. Attach only the zip file of the integration flow having error.
+        [The above attachments are necessary for validation and troubleshooting.]
+    validations:
+      required: true
+   - type: checkboxes
+    id: unchanged
+    attributes:
+      label: Unchanged
+      description: By submitting this issue, you agree that you have unchanged the integration flow except external paramters. Support for customized iflow will not be supported. 
+      options:
+        - label: I agree that the above issue repororted for the integration flow is kept unchanged.
+          required: true
   - type: checkboxes
     id: terms
     attributes:
