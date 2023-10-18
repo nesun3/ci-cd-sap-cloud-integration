@@ -72,9 +72,9 @@ body:
     id: unchanged
     attributes:
       label: Unchanged
-      description: By submitting this issue, you agree that you have unchanged the integration flow except external paramters. Support for customized iflow will not be supported. 
+      description: You agree that you have unchanged the integration flow except external paramters. Support for customized iflow will not be supported. 
       options:
-         - label: I agree that the above issue repororted for the integration flow is kept unchanged.
+         - label: I agree that the above issue reported for the integration flow is kept unchanged.
            required: true
   - type: checkboxes
     id: terms
