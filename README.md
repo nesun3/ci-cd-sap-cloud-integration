@@ -26,7 +26,7 @@ As everybody is not familiar and comfortable with CI/CD tools, this project can 
 
 Designed with ease-of-use in mind, making it simple and straightforward to begin without the need for any additional external tools or specialized knowledge. It is designed entirely around the core building blocks and artifacts of SAP Cloud Integration, without even relying on native Git, a prerequisite for most CI/CD and DevOps tools.
 
-A write-up about this project can be found here:
+A write-up about this project can be found here: [SAP Blog - To be updated once published]
 
 ![General architecture](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/docs/images/General%20architecture.png)
 ## Requirements
@@ -52,14 +52,17 @@ Refer to the GitHub repository [sap-cloud-integration-artifacts](https://github.
 
 ## Support, Feedback, Contributing
 
-This project is open to feature requests/suggestions, bug reports, etc. via [GitHub issues](https://github.com/nesun3/ci-cd-sap-cloud-integration/issues) and [pull requests](https://github.com/nesun3/ci-cd-sap-cloud-integration/pulls). Contribution and feedback are encouraged and always welcome.
+This project is open to feature requests/suggestions, bug reports, etc. via [GitHub issues](https://github.com/nesun3/ci-cd-sap-cloud-integration/issues/new/choose) and [pull requests](https://github.com/nesun3/ci-cd-sap-cloud-integration/pulls). Contribution and feedback are encouraged and always welcome.
 
-See [Contribution guidelines for this project](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/.github/CONTRIBUTING.md) if you want to take part in this project. As I am a beginner myself, beginners are welcome.
+See [Contribution guidelines for this project](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/CONTRIBUTING.md#contributing-to-this-open-source-project) if you want to take part in this project. As I am a beginner myself, beginners are welcome.
+
 
 ## License
 See the [LICENSE](LICENSE) file for details
 
 ## 🌱 Support the Project
+
+>Encourage this repo by giving it a star. If you like this concept, click on 'Star' [on the top right of the screen]. This is the GitHub equivalent of '👍 ' or 'like' or '+1'.
 
 *If you've found my work helpful in your project, please consider buying me a coffee to show your support!*
 
