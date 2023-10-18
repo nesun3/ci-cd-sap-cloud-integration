@@ -14,3 +14,5 @@ To ensure a smooth and effective contribution process, please take a moment to r
 - Please add a README.md file and describe the changes made using bullet points.
 - Please add a Word document file to the "docs" folder. This document should include detailed screenshots of the steps that have been changed, along with comprehensive testing details.
 
+## Code of Conduct
+Please adhere to our project's [Code of Conduct](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/CODE_OF_CONDUCT.md). Be respectful, inclusive, and considerate of others when contributing to our project.
