@@ -21,7 +21,7 @@ body:
       label: Describe the bug
       description: A short clear and concise description of what the bug is.
       placeholder: Tell us what you see!
-      value: "A bug happened!"
+      value: "A short description!"
     validations:
       required: true
   - type: textarea
@@ -29,7 +29,7 @@ body:
     attributes:
       label: What happened?
       description: A clear and concise description of what happened and what you expected to happen.
-      value: "A bug happened!"
+      value: "Add relevant context about the problem here."
     validations:
       required: true
   - type: textarea
@@ -43,6 +43,7 @@ body:
         3. Scroll down to '....'
         4. See error ...
         [If applicable, add screenshots to help explain your problem.]
+        ** You can attach a word documents defining all the above steps with screenshot as well **
     validations:
       required: true
   - type: dropdown
