@@ -1,0 +1,72 @@
+name: Feature Request
+description: Suggest an idea for this project.
+title: "[Feature Request]: "
+labels: ["feature-request", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this Feature Request form!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: input
+    id: decribe-the-feature-request
+    attributes:
+      label: Describe the Feature Request
+      description: A short clear and concise description about Feature Request.
+      value: "A short description!"
+    validations:
+      required: true
+  - type: textarea
+    id: feature-request-problem
+    attributes:
+      label: Is your feature request related to a problem? Please describe.**
+      description: A clear and concise description of what the problem is. Ex. I'm always face issue when [...].
+      value: "Add relevant context about the problem here. If your feature request is not related to a problem, then please leave blank to this section"
+    validations:
+      required: false
+  - type: textarea
+    id: describe-solution
+    attributes:
+      label: Describe the solution you'd like
+      description: A clear and concise description of what you want to happen.
+    validations:
+      required: true
+  - type: dropdown
+    id: integration-flow-name
+    attributes:
+      label: Integration Flow Name?
+      multiple: false
+      options:
+        - Sync artifacts
+        - Sync artifacts - Delta
+        - Transport/Migrate artifacts
+        - Upload artifacts to tenant
+  - type: textarea
+    id: describe-alternatives
+    attributes:
+      label: Describe alternatives you've considered
+      description: A clear and concise description of any alternative solutions or features you've considered.
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context or screenshots about the feature request here.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+         - label: I agree to follow this project's Code of Conduct
+           required: true
