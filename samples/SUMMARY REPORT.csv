@@ -1,0 +1,22 @@
+Total Packages Extracted,3
+Total iFlows Extracted,7
+Total ValueMappings Extracted,5
+Interface Execution TimeStamp,2023-10-14T11:03:07Z
+
+
+
+ArtifactType,Id,Version,Task,UploadStatus,ResponseCode,ResponseStatus,ResponseBody
+IntegrationPackages,TestPackage01,1.0.0,CREATE,Success,201,Created,
+IntegrationPackages,TestPackage02,1.0.0,CREATE,Success,201,Created,
+IntegrationFlows,Get_file_in_Github,1.0.1,CREATE,Success,201,Created,
+IntegrationFlows,Create_file_in_Github,1.0.1,CREATE,Success,201,Created,
+IntegrationFlows,SF_EC_Job_Information_Delta_Load,1.0.1,CREATE,Success,201,Created,
+IntegrationFlows,Test_CE_API,1.0.6,CREATE,Success,201,Created,
+IntegrationFlows,TEST_01,1.0.8,CREATE,Success,201,Created,
+IntegrationFlows,SF_EC_to_Benefitfocus,1.3.4,CREATE,Success,201,Created,
+IntegrationFlows,Employee_Integration_from_SAP_SuccessFactors_to_SAP_Concur,1.0.0,CREATE,Success,201,Created,
+ValueMappings,Country_Code_Conversion,1.0.1,CREATE,Success,201,Created,
+ValueMappings,Employee_Status_-_Value_Mapping,1.0.2,CREATE,Success,201,Created,
+ValueMappings,Name_Suffix,1.0.1,CREATE,Success,201,Created,
+ValueMappings,Pay_Frequency,1.0.2,CREATE,Success,201,Created,
+ValueMappings,Phone_Country_Code_Conversion,1.0.2,CREATE,Success,201,Created,
