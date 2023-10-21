@@ -26,7 +26,7 @@ As everybody is not familiar and comfortable with CI/CD tools, this project can 
 
 Designed with ease-of-use in mind, making it simple and straightforward to begin without the need for any additional external tools or specialized knowledge. It is designed entirely around the core building blocks and artifacts of SAP Cloud Integration, without even relying on native Git, a prerequisite for most CI/CD and DevOps tools.
 
-A write-up about this project can be found here: [SAP Blog - To be updated once published]
+A write-up about this project can be found here: [Demystifying CI/CD Pipelines for SAP Cloud Integration Projects](https://blogs.sap.com/2023/10/20/demystifying-ci-cd-pipelines-for-sap-cloud-integration-projects/)
 
 ![General architecture](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/docs/images/General%20architecture.png)
 ## Requirements
