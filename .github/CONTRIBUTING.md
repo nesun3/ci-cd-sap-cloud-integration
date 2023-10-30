@@ -16,3 +16,7 @@ To ensure a smooth and effective contribution process, please take a moment to r
 
 ## Code of Conduct
 Please adhere to our project's [Code of Conduct](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/CODE_OF_CONDUCT.md). Be respectful, inclusive, and considerate of others when contributing to our project.
+
+Please respect the following restrictions:
+
+- Please **do not** derail or troll issues. Keep the discussion on topic and respect the opinions of others.
