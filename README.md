@@ -1,21 +1,18 @@
-<p align="center">
-<img src="https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/docs/images/cicd.png" alt="Logo" width="200" height="200"/>
-</p>
-
-<h1 align="center">Simplifying CI/CD for SAP Cloud Integration Projects</h1>
-
-<p align="center">
-Simplify SAP Cloud Integration CI/CD with a native approach—no external tools or Git required.
-</p>
-
-<div align="center">
-  
+<div>
+ 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub](https://img.shields.io/badge/sap_integration-Custom-blue)
 </div>
+<h1>Simplifying CI/CD for SAP Cloud Integration Projects</h1>
 
-## About this project
+## Description
+<p>
+Simplify SAP Cloud Integration CI/CD with a native approach—no external tools or Git required.
+</p>
+
+
+## Overview
 CI/CD is a hot topic in the world of software development. It stands for Continuous Integration and Continuous Deployment (or Continuous Delivery), and it plays a pivotal role in modern software development processes. CI/CD is a set of practices, tools, and principles aimed at automating and streamlining the software development lifecycle.
 
 Most modern developer tools, such as VS Code, even SAP BAS, etc. now come equipped with native Git integration. However, SAP Cloud Integration differs significantly from other development tools, and as a result, implementing a CI/CD solution for it presents unique challenges.
@@ -26,9 +23,11 @@ As everybody is not familiar and comfortable with CI/CD tools, this project can 
 
 Designed with ease-of-use in mind, making it simple and straightforward to begin without the need for any additional external tools or specialized knowledge. It is designed entirely around the core building blocks and artifacts of SAP Cloud Integration, without even relying on native Git, a prerequisite for most CI/CD and DevOps tools.
 
-A write-up about this project can be found here: [Demystifying CI/CD Pipelines for SAP Cloud Integration Projects](https://blogs.sap.com/2023/10/20/demystifying-ci-cd-pipelines-for-sap-cloud-integration-projects/)
+A write-up about this project can be found here: [Demystifying CI/CD Pipelines for SAP Cloud Integration Projects](https://blogs.sap.com/2023/10/20/demystifying-ci-cd-pipelines-for-sap-cloud-integration-projects/).
 
+## Solution Diagrams
 ![General architecture](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/docs/images/General%20architecture.png)
+
 ## Requirements
 You will need a SAP Cloud Integration tenant to consume, test and enhance this integrationartifacts.
 
@@ -55,11 +54,11 @@ Refer to the GitHub repository [sap-cloud-integration-artifacts](https://github.
 
 This project is open to feature requests/suggestions, bug reports, etc. via [GitHub issues](https://github.com/nesun3/ci-cd-sap-cloud-integration/issues/new/choose) and [pull requests](https://github.com/nesun3/ci-cd-sap-cloud-integration/pulls). Contribution and feedback are encouraged and always welcome.
 
-See [Contribution guidelines for this project](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/CONTRIBUTING.md#contributing-to-this-open-source-project) if you want to take part in this project. As I am a beginner myself, beginners are welcome.
+Please refer to the [contributing guidelines](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/nesun3/ci-cd-sap-cloud-integration/blob/main/CONTRIBUTING.md) before contributing to this repository.
 
 
 ## License
-See the [LICENSE](LICENSE) file for details
+See the [LICENSE](LICENSE) file for details.
 
 ## 🌱 Support the Project
 
